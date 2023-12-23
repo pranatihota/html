@@ -18,7 +18,9 @@ cout<<array[i]<<endl;
 
 
 
-
+vector <int> v;
+v={10,20};
+cout<<v.pop_back();
 
 
 
